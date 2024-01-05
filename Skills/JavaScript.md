@@ -1,20 +1,20 @@
 ## Programming fundamental concepts
 
 - Language
-  - Object
-  - this
-  - arrow function
+  - Object 🎓 known
+  - this 🎓 known
+  - arrow function 🎓 known
   - async function
   - call
   - bind
   - apply
-  - instanceof
+  - instanceof 🎓 known
   - ...spread
   - ...rest
   - typeof
   - destructuring
   - generator
-  - iterator
+  - iterator 🎓 known
   - async generator
   - async iterator
   - chaining
@@ -23,67 +23,67 @@
   - global
   - globalThis
   - window
-  - getters and setters
+  - getters and setters 🎓 known
   - __proto__
   - prototype
-  - equality operators
-  - logical operators
-  - bitwise operators
-  - ternary operator
-  - void
+  - equality operators 🎓 known
+  - logical operators 🎓 known
+  - bitwise operators 🎓 known
+  - ternary operator 🎓 known
+  - void 🎓 known
   - yield
   - await
   - template literal
-  - strict mode
-  - delete
-  - in
-  - super
+  - strict mode 🎓 known
+  - delete 🎓 known
+  - in 🎓 known
+  - super 🎓 known
   - Symbol
   - Reflect
 - Statements
-  - if
-  - while
-  - do..while
-  - for
-  - for..in
-  - for..of
+  - if 🖐️ used
+  - while 🖐️ used
+  - do..while 🖐️ used
+  - for 🖐️ used
+  - for..in 🖐️ used
+  - for..of 🖐️ used
   - for await
-  - throw
-  - break
-  - continue
-  - import
-  - export
+  - throw 🖐️ used
+  - break 🖐️ used
+  - continue 🖐️ used
+  - import 🖐️ used
+  - export 🖐️ used
   - label
-  - try..catch
-  - switch
-  - class
-  - new Error
-  - with
+  - try..catch 🖐️ used
+  - switch 🖐️ used
+  - class 🖐️ used
+  - new Error 🖐️ used
+  - with 
 - Functions
-  - function declaration
-  - function expression
-  - return
-  - default parameters
+  - function declaration 🎓 known
+  - function expression 🎓 known
+  - return 🎓 known
+  - default parameters 🎓 known
   - functional object
 - Data structures
-  - Array
+  - Array 🎓 known
   - mixin
   - extend
   - typed arrays
-  - Map
-  - Set
-  - undefined
-  - null
+  - Map 🎓 known
+  - Set 🎓 known
+  - undefined 🎓 known
+  - null 🎓 known
   - Proxy
   - weak collections
   - timers
-  - EventEmitter
+  - EventEmitter 🎓 known
   - RegExp
-  - Date
+  - Date 🎓 known
   - BigInt
 - Infrastructure
   - V8
-  - Node.js
-  - npm
+  - Node.js 🎓 known
+  - npm 🎓 known
   - prettier
   - MDN
