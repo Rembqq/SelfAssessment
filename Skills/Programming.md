@@ -6,7 +6,7 @@
   - variable 🙋 explained
   - constant 🙋 explained
   - scalar 
-  - literal 🖐️ used
+  - literal 
   - expression 🙋 explained
   - heap 🖐️ used
   - function 🙋 explained
@@ -30,34 +30,34 @@
   - module 🖐️ used
   - call stack 🎓 known
 - Functions
-  - signature 🎓 known
+  - signature 
   - argument 🖐️ used
   - parameter 🖐️ used
   - pure function 
-  - lambda expression 🖐️ used
-  - side effects 👂 heard
-  - closure 👂 heard
+  - lambda expression 
+  - side effects 
+  - closure 
   - partial application
-  - curry 👂 heard
-  - higher order 🎓 known
+  - curry 
+  - higher order 
   - recursion 🙋 explained
-  - callback 🖐️ used
-  - listener 🖐️ used
+  - callback 
+  - listener 
   - compose
   - pipe
   - memoize
-  - wrapper 🖐️ used
-  - functor 👂 heard
-  - monad 👂 heard
-  - monoid 👂 heard
+  - wrapper 
+  - functor 
+  - monad 
+  - monoid 
   - generator 
   - coroutine 
 - Data structures
   - array 🖐️ used
   - structure 🖐️ used
   - record 
-  - enum 🖐️ used
-  - instance 🖐️ used
+  - enum 
+  - instance 
   - object 🖐️ used
   - class 🖐️ used
   - collection 🖐️ used
@@ -91,15 +91,15 @@
   - algorithm 🎓 known
   - magic numbers 
   - hardcode 
-  - complexity 🎓 known
-  - decomposition 🎓 known
+  - complexity 
+  - decomposition 
   - spaghetti 🖐️ used(joke)
   - silver bullet 👂 heard
   - not invented here ...
   - dead code 👂 heard
-  - unreachable code 🎓 known
+  - unreachable code 
   - duplicate code 🎓 known
-  - exception 🖐️ used
+  - exception 
   - return early 🎓 known
   - unittest 
   - git 🖐️ used
