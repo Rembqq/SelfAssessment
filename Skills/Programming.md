@@ -5,22 +5,22 @@
   - identifier 🙋 explained
   - variable 🙋 explained
   - constant 🙋 explained
-  - scalar 🙋 explained
+  - scalar 
   - literal 🖐️ used
   - expression 🙋 explained
   - heap 🖐️ used
   - function 🙋 explained
-  - procedure 🎓 known
+  - procedure 
   - method 🙋 explained
   - class 🖐️ used
   - prototype 🖐️ used
-  - event 🖐️ used
-  - type 🖐️ used
-  - primitive types 🖐️ used
-  - reference types 🖐️ used
-  - flag 🎓 known
+  - event 
+  - type 
+  - primitive types 
+  - reference types 
+  - flag 
   - lexical scope
-  - code block 🎓 known
+  - code block 
   - conditions 🙋 explained
   - loops 🖐️ used
   - assignment 🙋 explained
@@ -33,7 +33,7 @@
   - signature 🎓 known
   - argument 🖐️ used
   - parameter 🖐️ used
-  - pure function 👂 heard
+  - pure function 
   - lambda expression 🖐️ used
   - side effects 👂 heard
   - closure 👂 heard
@@ -50,8 +50,8 @@
   - functor 👂 heard
   - monad 👂 heard
   - monoid 👂 heard
-  - generator 🎓 known
-  - coroutine 👂 heard
+  - generator 
+  - coroutine 
 - Data structures
   - array 🖐️ used
   - structure 🖐️ used
@@ -65,32 +65,32 @@
   - hash table 🖐️ used
   - linked list 🖐️ used
   - doubly list 🎓 known
-  - unrolled list 🎓 known
-  - circular list 🎓 known
+  - unrolled list 
+  - circular list 
   - queue 🎓 known
   - stack 🎓 known
   - deque 🎓 known
   - tree 🎓 known
   - graph 🎓 known
   - iterator 🎓 known
-  - mutable state 👂 heard
-  - immutable state 👂 heard
-  - serialization 🖐️ used
-  - string parsing 🖐️ used
+  - mutable state 
+  - immutable state 
+  - serialization 
+  - string parsing 
 - Process & style
   - compiler 🎓 known
   - transpiler
   - linter 🎓 known
   - polyfill
   - debugger 🖐️ used
-  - garbage collection 🖐️ used
+  - garbage collection 
   - refactoring 🖐️ used
   - code review 🎓 known
-  - antipatterns 🎓 known
+  - antipatterns 
   - paradigm 🎓 known
   - algorithm 🎓 known
-  - magic numbers 🎓 known
-  - hardcode 🎓 known
+  - magic numbers 
+  - hardcode 
   - complexity 🎓 known
   - decomposition 🎓 known
   - spaghetti 🖐️ used(joke)
@@ -101,6 +101,6 @@
   - duplicate code 🎓 known
   - exception 🖐️ used
   - return early 🎓 known
-  - unittest 👂 heard
+  - unittest 
   - git 🖐️ used
   - github 🖐️ used
